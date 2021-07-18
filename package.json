@@ -1,5 +1,6 @@
 {
   "name": "photo-port",
+  "homepage": "http://Dzarbis.github.io/photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,6 +36,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7"
+    "@testing-library/react": "^11.2.7",
+    "gh-pages": "^3.2.3"
   }
 }
